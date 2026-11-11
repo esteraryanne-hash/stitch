@@ -34,7 +34,7 @@ GlamAtHome, kullanıcıları evde güzellik hizmeti sunan profesyoneller ile bul
 1. Projeyi klonlayın:
 
    ```bash
-   git clone https://github.com/aryannemanfoumbi-ops/stitch
+   git clone https://github.com/esteraryanne-hash/stitch.git
    ```
 
 2. Gerekli paketleri yükleyin:
