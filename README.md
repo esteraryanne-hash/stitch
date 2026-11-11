@@ -51,4 +51,4 @@ GlamAtHome, kullanıcıları evde güzellik hizmeti sunan profesyoneller ile bul
 
 ## GitHub Proje Bağlantısı
 
-https://github.com/aryannemanfoumbi-ops/stitch
+https://github.com/esteraryanne-hash/stitch
